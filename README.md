@@ -91,4 +91,9 @@ Help us grow by give a star.
 This project supported by: INDOTALENT [https://store.indotalent.com](https://store.indotalent.com). Feel free to visit their site and use 50% discount using discount code: **GITHUB50**
 ![WHMS PRO](wwwroot/whms-pro-warehouse-inventory-management.png)
 
+## Need ASP.NET Core Full Stack & Production-Ready Codebase?
+![Enterprise Full Stack Application](https://store.indotalent.com/cdn/shop/files/aspnet-wms-fs-hero5_1024x.png?v=1735784801)
+
+[Get the Source Code and Book Now](https://store.indotalent.com/collections/featured-product/products/inventory-wms-full-stack-edition)
+
 
