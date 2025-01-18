@@ -123,6 +123,8 @@ This project is proudly supported by **INDOTALENT**, your trusted partner for pr
 
 🌐 Visit now: [https://store.indotalent.com](https://store.indotalent.com)  
 
+![store-indotalent](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/store-indotalent-hero.png?v=1737235553)  
+
 
 ---
 
