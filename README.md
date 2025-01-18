@@ -117,29 +117,23 @@ Together, we can build something even greater—thank you for being a part of th
 ---
 
 # Supporters  
+
 This project is proudly supported by **INDOTALENT**, your trusted partner for professional software solutions.  
 
-🎉 **Exclusive Offer:** Get an incredible **50% discount** on their products using the code **GITHUB50**. Don’t miss this opportunity to enhance your projects with top-notch solutions!  
+Providing a fully functional **ASP.NET Core Full Stack Application** with an enterprise-grade **Headless API**, this solution features a **decoupled business process architecture** that ensures total separation between the back-end API and the front-end UI.  
+
+Built with **Clean Architecture, CQRS, and MediatR**, it delivers unparalleled flexibility and scalability for modern development needs.  
+
+And the price? It's **lower than your employee's T-shirts**, offering incredible value for your investment!  
+Don’t miss this opportunity to supercharge your development with a cutting-edge, production-ready solution! 🚀  
+
+🎉 **Exclusive Offer:** Get an incredible **50% discount** on their products using the code **GITHUB50**.  
 
 🌐 Visit now: [https://store.indotalent.com](https://store.indotalent.com)  
 
 ![store-indotalent](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/store-indotalent-hero.png?v=1737235553)  
 
 
----
 
-# Need a Production-Ready Codebase?  
-Unlock the power of a fully functional **ASP.NET Core Full Stack Application** with an enterprise-grade **Headless API**.  
-
-💡 **Why Choose This?**  
-This solution features a **decoupled business process architecture**, ensuring total separation between the back-end API and the front-end UI. Built with **Clean Architecture, CQRS, and MediatR**, it provides unparalleled flexibility and scalability for modern development needs.  
-
-And the price? It's **lower than your employee's T-shirts**, offering incredible value for your investment!  
-
-![Enterprise Full Stack Application](https://store.indotalent.com/cdn/shop/files/aspnet-wms-fs-hero6_1f3bb4d4-6a12-47ae-b31b-1e60e655e3b2_1024x1024@2x.png?v=1736228154)  
-
-📥 [Get the Source Code and Book Now](https://store.indotalent.com/collections/featured-product/products/inventory-wms-full-stack-edition)  
-
-Don’t miss this opportunity to supercharge your development with a cutting-edge, production-ready solution! 🚀  
 
 
