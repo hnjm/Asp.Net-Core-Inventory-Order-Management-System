@@ -30,7 +30,7 @@ Experience the blazing speed and efficiency of **.NET 9**, the latest breakthrou
   - Secure authentication and authorization with ASP.NET Identity + JWT
 - **ASP.NET Core Razor Pages + Vue.js** (Front End)
   - Dynamic client-side interactivity with Vue.js
-  - Modular, component-based architecture
+  - Industry-leading Syncfusion UI components (free community edition)
   - Axios for API communication
   - Responsive UI with AdminLTE template
 
