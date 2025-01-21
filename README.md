@@ -96,9 +96,24 @@ For deployment to IIS:
 
 ---
 
-# Credits
-- **Syncfusion Community License**: [https://www.syncfusion.com/products/communitylicense](https://www.syncfusion.com/products/communitylicense)  
-- **AdminLTE HTML Admin Template**: [https://adminlte.io/](https://adminlte.io/)
+## Acknowledgments
+
+This project uses the following open-source and community resources:
+
+- [Syncfusion Community Edition](https://www.syncfusion.com/products/communitylicense) - For advanced UI components.  
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - Licensed under the MIT License.  
+
+We thank these projects for their contributions to the developer community.
+
+---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/).  
+To view a copy of this license, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
+
+Users are required to retain the footer link in all instances of this software as part of the attribution requirement under CC BY 4.0.
+
 
 ---
 
