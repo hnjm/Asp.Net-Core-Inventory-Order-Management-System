@@ -20,7 +20,7 @@
         const services = {
             getMainData: async () => {
                 try {
-                    const response = await AxiosManager.get('/CustomerGroup/GetCustomerGroupList', {});
+                    const response = await AxiosManager.get('/CustomerCategory/GetCustomerCategoryList', {});
                     return response;
                 } catch (error) {
                     throw error;
@@ -28,7 +28,7 @@
             },
             createMainData: async (name, description, createdById) => {
                 try {
-                    const response = await AxiosManager.post('/CustomerGroup/CreateCustomerGroup', {
+                    const response = await AxiosManager.post('/CustomerCategory/CreateCustomerCategory', {
                         name, description, createdById
                     });
                     return response;
@@ -38,7 +38,7 @@
             },
             updateMainData: async (id, name, description, updatedById) => {
                 try {
-                    const response = await AxiosManager.post('/CustomerGroup/UpdateCustomerGroup', {
+                    const response = await AxiosManager.post('/CustomerCategory/UpdateCustomerCategory', {
                         id, name, description, updatedById
                     });
                     return response;
@@ -48,7 +48,7 @@
             },
             deleteMainData: async (id, deletedById) => {
                 try {
-                    const response = await AxiosManager.post('/CustomerGroup/DeleteCustomerGroup', {
+                    const response = await AxiosManager.post('/CustomerCategory/DeleteCustomerCategory', {
                         id, deletedById
                     });
                     return response;
@@ -168,7 +168,7 @@
                     allowFiltering: true,
                     allowSorting: true,
                     allowSelection: true,
-                    allowGrouping: true,
+                    allowCategorying: true,
                     allowTextWrap: true,
                     allowResizing: true,
                     allowPaging: true,
@@ -229,7 +229,7 @@
 
                         if (args.item.id === 'AddCustom') {
                             state.deleteMode = false;
-                            state.mainTitle = 'Add Customer Group';
+                            state.mainTitle = 'Add Customer Category';
                             resetFormState();
                             mainModal.obj.show();
                         }
@@ -238,7 +238,7 @@
                             state.deleteMode = false;
                             if (mainGrid.obj.getSelectedRecords().length) {
                                 const selectedRecord = mainGrid.obj.getSelectedRecords()[0];
-                                state.mainTitle = 'Edit Customer Group';
+                                state.mainTitle = 'Edit Customer Category';
                                 state.id = selectedRecord.id ?? '';
                                 state.name = selectedRecord.name ?? '';
                                 state.description = selectedRecord.description ?? '';
@@ -250,7 +250,7 @@
                             state.deleteMode = true;
                             if (mainGrid.obj.getSelectedRecords().length) {
                                 const selectedRecord = mainGrid.obj.getSelectedRecords()[0];
-                                state.mainTitle = 'Delete Customer Group?';
+                                state.mainTitle = 'Delete Customer Category?';
                                 state.id = selectedRecord.id ?? '';
                                 state.name = selectedRecord.name ?? '';
                                 state.description = selectedRecord.description ?? '';
@@ -279,7 +279,7 @@
 
         Vue.onMounted(async () => {
             try {
-                await SecurityManager.authorizePage(['CustomerGroups']);
+                await SecurityManager.authorizePage(['CustomerCategories']);
                 await SecurityManager.validateToken();
 
                 await methods.populateMainData();
