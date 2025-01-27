@@ -148,6 +148,8 @@ Don’t miss this opportunity to supercharge your development with a cutting-edg
 🌐 Visit now: [https://store.indotalent.com](https://store.indotalent.com)  
 
 [![store-indotalent](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/store-indotalent-hero.png?v=1737235553)](https://store.indotalent.com)
+### ✅ **How does Mini CRM help SMBs manage operations, drive growth, and streamline payroll?**
+[![powerfull-mini-crm](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/powerfull-mini-crm-for-smb.png?v=1737992595)](https://store.indotalent.com)
 [![katenjo-crm-saas](https://store.indotalent.com/cdn/shop/files/hero1_f05d44f6-1298-4d0c-a46d-05395a7731d1_1024x1024@2x.png?v=1737932377)](https://store.indotalent.com/collections/featured-product/products/katenjo-crm-full-stack-edition-saas-multi-tenant)
 
 
