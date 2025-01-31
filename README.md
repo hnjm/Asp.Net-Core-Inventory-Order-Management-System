@@ -1,4 +1,4 @@
-![indotalent-whms](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/hero.png?v=1737591579)
+![indotalent-whms](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/product_hunt_inventory_wms_2.png?v=1738303996)
 # 🔥 Introduction  
 Welcome to our **Warehouse Inventory Management System (WHMS)**, an innovative and scalable solution meticulously crafted to streamline and optimize your inventory operations.  
 
