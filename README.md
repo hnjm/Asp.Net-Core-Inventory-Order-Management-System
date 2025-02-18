@@ -1,4 +1,5 @@
-![indotalent-whms](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/hero.png?v=1737591579)
+![indotalent-whms](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/product_hunt_inventory_wms_2.png?v=1738303996)
+<a href="https://www.producthunt.com/posts/indotalent-wms?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-indotalent&#0045;wms" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=836427&theme=light&t=1738304283591" alt="INDOTALENT&#0032;WMS - Free&#0032;and&#0032;open&#0045;source&#0032;powerful&#0032;inventory&#0032;management&#0032;system | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 # 🔥 Introduction  
 Welcome to our **Warehouse Inventory Management System (WHMS)**, an innovative and scalable solution meticulously crafted to streamline and optimize your inventory operations.  
 
@@ -17,6 +18,13 @@ Experience the blazing speed and efficiency of **.NET 9**, the latest breakthrou
 
 
 ---
+## Monolithic Clean Architecture  
+
+WHMS is built using a **Monolithic Clean Architecture** approach, ensuring a structured and simplified development process. By keeping all components within a single codebase, dependency management is streamlined, eliminating the risk of a **dependency nightmare**. This approach consolidates all dependencies in one place, ensuring compatibility and coherence across the entire system.  
+
+Additionally, it simplifies **deployment**, as all code resides in a single repository with a well-optimized pipeline, reducing complexity. The **cohesive project structure** provides a clear and consistent source code pattern, making it easier for developers to understand and maintain the system. With the combination of Clean Architecture, CQRS, and MediatR, WHMS delivers a **scalable, maintainable, and enterprise-ready solution**.
+
+---
 
 # Technical Features
 - **ASP.NET Core 9.0 Headless API** (Back End)
@@ -29,11 +37,12 @@ Experience the blazing speed and efficiency of **.NET 9**, the latest breakthrou
   - Serilog for logging
   - Support for file uploads and downloads (images/documents)
   - Secure authentication and authorization with ASP.NET Identity + JWT
-- **ASP.NET Core Razor Pages + Vue.js** (Front End)
-  - Dynamic client-side interactivity with Vue.js
-  - Industry-leading Syncfusion UI components (free community edition)
-  - Axios for API communication
-  - Responsive UI with AdminLTE template
+- **ASP.NET Core Razor Pages with a Simple & Modern UI** (Front End)  
+  - **Effortless** dynamic interactivity using Vue.js **without any build system**  
+  - **Ready-to-use** industry-leading Syncfusion UI components (free community edition)  
+  - **Lightweight and straightforward** API communication with Axios  
+  - **Easy-to-customize** responsive UI powered by the AdminLTE template  
+
 
 ---
 
@@ -62,30 +71,40 @@ Experience the blazing speed and efficiency of **.NET 9**, the latest breakthrou
 
 ---
 
-# Run The Project: Visual Studio
-Follow these simple steps to get started:
-1. Open the project using Visual Studio.
-2. Update the connection string in `appsettings.json` to match your SQL Server database.
-3. Clean and build the solution:
-   - Right-click the solution > Clean
-   - Right-click the solution > Build
-4. Run the project:
-   - Click the green "play" button in the Visual Studio toolbar.
+# Run The Project: Visual Studio  
 
-> **Note**: The database will be created automatically if it does not exist.
+Getting started is **easy**! Thanks to **Monolithic Clean Architecture**, everything is structured and streamlined. Plus, even though this project uses a **modern JavaScript framework like Vue.js**, it **does not require a build system**—just use Visual Studio to run and build effortlessly.  
+
+1. Open the project using Visual Studio.  
+2. Update the connection string in `appsettings.json` to match your SQL Server database.  
+3. Clean and build the solution:  
+   - Right-click the solution > Clean  
+   - Right-click the solution > Build  
+4. Run the project:  
+   - Click the green "play" button in the Visual Studio toolbar.  
+
+> **Note**: The database will be created automatically if it does not exist.  
+
+
 
 ---
 
-# Run The Project: IIS Web Server
-For deployment to IIS:
-1. Publish the project:
-   - Right-click the project > Publish.
-   - Choose a folder to output the files.
-2. Deploy to IIS:
-   - Copy the published files to your IIS directory.
-   - Configure IIS to point to the folder and ensure database connectivity.
+# Run The Project: IIS Web Server  
 
-> For detailed instructions, refer to [Microsoft's official IIS deployment documentation](https://learn.microsoft.com/en-us/aspnet/core/tutorials/publish-to-iis).
+Deployment is **easy**! Thanks to **Monolithic Clean Architecture**, both the front end and back end are in a single deployable unit, making the process straightforward.  
+
+For deployment to IIS:  
+
+1. **Publish the project**:  
+   - Right-click the project > Publish.  
+   - Choose a folder to output the files.  
+
+2. **Deploy to IIS**:  
+   - Copy the published files to your IIS directory.  
+   - Configure IIS to point to the folder and ensure database connectivity.  
+
+> For detailed instructions, refer to [Microsoft's official IIS deployment documentation](https://learn.microsoft.com/en-us/aspnet/core/tutorials/publish-to-iis).  
+
 
 ---
 
@@ -148,7 +167,10 @@ Don’t miss this opportunity to supercharge your development with a cutting-edg
 🌐 Visit now: [https://store.indotalent.com](https://store.indotalent.com)  
 
 [![store-indotalent](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/store-indotalent-hero.png?v=1737235553)](https://store.indotalent.com)
-[![katenjo-crm-saas](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/hero1_9916d56e-9a26-49bf-84ad-d1ec269e0a1b.png?v=1737387087)](https://store.indotalent.com/collections/featured-product/products/katenjo-crm-full-stack-edition-saas-multi-tenant)
+### ✅ **How does Mini CRM help SMBs manage operations, drive growth, and streamline payroll?**
+[![powerfull-mini-crm](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/powerfull-mini-crm-for-smb.png?v=1737992595)](https://store.indotalent.com)
+[![katenjo-crm-saas](https://store.indotalent.com/cdn/shop/files/hero1_f05d44f6-1298-4d0c-a46d-05395a7731d1_1024x1024@2x.png?v=1737932377)](https://store.indotalent.com/collections/featured-product/products/katenjo-crm-full-stack-edition-saas-multi-tenant)
+[![customer relationship management software](https://store.indotalent.com/cdn/shop/files/hero-crm-platinum-customer-relationship-management3_b5af66b6-3af1-41a0-a90e-e39c6d05ac67_1024x1024@2x.jpg?v=1739085851)](https://store.indotalent.com/)
 
 
 
