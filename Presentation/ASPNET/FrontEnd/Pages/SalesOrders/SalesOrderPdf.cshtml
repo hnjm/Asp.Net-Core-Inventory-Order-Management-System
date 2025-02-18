@@ -82,11 +82,11 @@
                         </thead>
                         <tbody>
                             <tr v-for="item in state.items" :key="item.productNumber">
-                                <td>{{ item.productNumber }}</td>
-                                <td>{{ item.productName }}</td>
-                                <td>{{ item.unitPrice }}</td>
-                                <td>{{ item.quantity }}</td>
-                                <td>{{ item.total }}</td>
+                                <td>{{ item?.product?.number }}</td>
+                                <td>{{ item?.product?.name }}</td>
+                                <td>{{ item?.unitPrice }}</td>
+                                <td>{{ item?.quantity }}</td>
+                                <td>{{ item?.total }}</td>
                             </tr>
                         </tbody>
                     </table>
