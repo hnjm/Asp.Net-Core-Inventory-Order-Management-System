@@ -1,0 +1,39 @@
+# Creative Commons Attribution 4.0 International (CC BY 4.0)  
+
+This project is licensed under the **Creative Commons Attribution 4.0 International License**.  
+
+## You are free to:  
+
+- **Share** – Copy and redistribute the material in any medium or format.  
+- **Adapt** – Remix, transform, and build upon the material for any purpose, even commercially.  
+
+## Under the following terms:  
+
+- **Attribution** – You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  
+- **No additional restrictions** – You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  
+
+---
+
+## 📌 Third-Party Dependencies  
+
+This project includes third-party components:  
+
+### 1️⃣ AdminLTE  
+- A free admin dashboard template licensed under the **MIT License**.  
+- More details: [AdminLTE GitHub Repository](https://github.com/ColorlibHQ/AdminLTE)  
+
+### 2️⃣ Syncfusion Community Edition  
+- Some UI components in this project are built using **Syncfusion Community Edition**.  
+- **Important Notice**: Syncfusion Community Edition is **free only for individual developers and small businesses**.  
+- If you are using this project, please ensure that you **register for Syncfusion Community Edition** to comply with their licensing terms.  
+- More details: [Syncfusion Community License](https://www.syncfusion.com/products/communitylicense)  
+
+---
+
+## 📜 Full License Text  
+
+Read the full **Creative Commons Attribution 4.0 International License (CC BY 4.0)** here:  
+🔗 [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)  
+
+---
