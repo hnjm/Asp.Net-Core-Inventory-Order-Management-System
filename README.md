@@ -137,7 +137,7 @@ Users are required to retain the footer link in all instances of this software a
 
 
 # Starred  
-If you love this project, please consider supporting us by giving a star on GitHub! ⭐  
+If you find this project useful, please consider supporting us by giving a star on GitHub! ⭐  
 Your support keeps us motivated and helps us continue developing and improving this project to deliver even greater value to the community.  
 
 
