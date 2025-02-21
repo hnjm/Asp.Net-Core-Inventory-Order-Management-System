@@ -147,11 +147,11 @@ Every share helps us reach more people, grow the community, and continue improvi
  
 
 
-# Supporters  
+# One Last Kiss ❤️  
 
-This project is supported by **INDOTALENT**
+Thanks for stopping by and reading this far! This project is supported by **INDOTALENT**
 
-🌐 Visit now: [https://store.indotalent.com](https://store.indotalent.com)  
+🌐 Feel free to visit: [https://store.indotalent.com](https://store.indotalent.com)  
 
 [![store-indotalent](https://cdn.shopify.com/s/files/1/0097/8422/9945/files/store-indotalent-hero.png?v=1737235553)](https://store.indotalent.com)
 ### ✅ **How does Mini CRM help SMBs manage operations, drive growth, and streamline payroll?**
